@@ -1,0 +1,25 @@
+{
+  "name": "claudemcptests",
+  "version": "1.0.0",
+  "description": "This repo is a simple end to end test for deploying, installing and running Claude MCP tools for Rorze Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinRorzeDev/ClaudeMCPTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KevinRorzeDev/ClaudeMCPTests/issues"
+  },
+  "homepage": "https://github.com/KevinRorzeDev/ClaudeMCPTests#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^4.4.3"
+  }
+}
